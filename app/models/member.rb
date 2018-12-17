@@ -1,5 +1,5 @@
-class Member < ActiveRecord::Base
+class Member
 
-  belongs_to :team
+  
 
 end
