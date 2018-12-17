@@ -1,5 +1,4 @@
-class Team < ActiveRecord::Base
+class Team 
 
-  has_many :members
-
+  
 end
